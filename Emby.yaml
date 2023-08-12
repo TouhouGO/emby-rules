@@ -6,7 +6,14 @@ payload:
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmaooo.com
   - DOMAIN-KEYWORD,xeton.dev
+  - DOMAIN-KEYWORD,emby.eu.org
   - DOMAIN-SUFFIX,emby.nexitally.com
+#星光
+  - DOMAIN-SUFFIX,free.emby.eu.org
+  - DOMAIN-SUFFIX,9wfree.emby.eu.org
+#Dolphin
+  - DOMAIN-SUFFIX,public.emby.ws
+##
   - DOMAIN-SUFFIX,emby.immtel.com
   - DOMAIN-SUFFIX,line.emby.men
   - DOMAIN-SUFFIX,emby.cjpc.xyz
