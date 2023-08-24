@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,free.emby.eu.org
-DOMAIN-SUFFIX,9wfree.emby.eu.org
-DOMAIN-SUFFIX,https://misty.ltd
-DOMAIN-SUFFIX,public.emby.ws
+HOST-SUFFIX,free.emby.eu.org,Emby
+HOST-SUFFIX,9wfree.emby.eu.org,Emby
+HOST-SUFFIX,https://misty.ltd,Emby
+HOST-SUFFIX,public.emby.ws,Emby
 HOST,emby.enjoyit.eu.org,Emby
 HOST-SUFFIX,agahk1.jmsooo.com,Emby
 HOST-SUFFIX,agajp1.jmsooo.com,Emby
